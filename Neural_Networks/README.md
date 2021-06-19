@@ -19,3 +19,15 @@
 ![image](https://user-images.githubusercontent.com/23666146/122628500-35587600-d06b-11eb-8974-8480b5b715ed.png)
 
 ![image](https://user-images.githubusercontent.com/23666146/122628516-502aea80-d06b-11eb-84dc-52dc47a52799.png)
+
+## Gradient Descent
+
+![image](https://user-images.githubusercontent.com/23666146/122654821-cc244180-d102-11eb-9f00-4c5eb2899e29.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657212-398d9d80-d116-11eb-8f89-5fd5d51dc26f.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657220-49a57d00-d116-11eb-8dcc-e32ed7610d94.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657229-6e015980-d116-11eb-9d88-c55b8bf15182.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657240-b15bc800-d116-11eb-957a-f6d3257899cc.png)
