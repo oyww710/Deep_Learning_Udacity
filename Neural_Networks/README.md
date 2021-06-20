@@ -63,5 +63,19 @@
 
 ![image](https://user-images.githubusercontent.com/23666146/122658154-b3c22000-d11e-11eb-9bb7-a4b7630da0b1.png)
 
+## Math of Gradient Descent
+
+[Why Momentum Really Works](https://distill.pub/2017/momentum/)
+
+![image](https://user-images.githubusercontent.com/23666146/122658379-54194400-d121-11eb-910f-07e5d8852518.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658415-cdb13200-d121-11eb-87cc-5456f83895c1.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658420-defa3e80-d121-11eb-906d-1c0d833439af.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658425-f507ff00-d121-11eb-927b-457b19c6fc8c.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658430-08b36580-d122-11eb-8bca-85be4fc397fb.png)
 
 
+![image](https://user-images.githubusercontent.com/23666146/122658415-cdb13200-d121-11eb-87cc-5456f83895c1.png)
