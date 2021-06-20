@@ -120,3 +120,4 @@
 
 ![image](https://user-images.githubusercontent.com/23666146/122659464-56819b00-d12d-11eb-9392-752c716905f2.png)
 
+[CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4](https://www.youtube.com/watch?v=59Hbtz7XgjM)
