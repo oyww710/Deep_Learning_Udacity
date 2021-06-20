@@ -83,3 +83,9 @@
 
 ![image](https://user-images.githubusercontent.com/23666146/122658455-5e880d80-d122-11eb-98ab-10b7913f1ff1.png)
 
+## Implement gradient descent
+
+![image](https://user-images.githubusercontent.com/23666146/122658506-fb4aab00-d122-11eb-83e2-385cbb2a494e.png)
+
+
+![image](https://user-images.githubusercontent.com/23666146/122658481-b161c500-d122-11eb-8b09-16bd5ef266bd.png)
