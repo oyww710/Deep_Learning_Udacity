@@ -89,3 +89,17 @@
 
 
 ![image](https://user-images.githubusercontent.com/23666146/122658481-b161c500-d122-11eb-8b09-16bd5ef266bd.png)
+
+## Multilayer Perceptrons
+
+![image](https://user-images.githubusercontent.com/23666146/122658951-8d54b280-d127-11eb-85ef-fcf4fd4fd17c.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658985-c68d2280-d127-11eb-8971-2822a5f18223.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659013-0b18be00-d128-11eb-9e87-d24637247d04.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658506-fb4aab00-d122-11eb-83e2-385cbb2a494e.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659029-39969900-d128-11eb-928a-fd62f8084f97.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659071-89756000-d128-11eb-82cb-c75e39dbf28c.png)
