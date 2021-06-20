@@ -103,3 +103,20 @@
 ![image](https://user-images.githubusercontent.com/23666146/122659029-39969900-d128-11eb-928a-fd62f8084f97.png)
 
 ![image](https://user-images.githubusercontent.com/23666146/122659071-89756000-d128-11eb-82cb-c75e39dbf28c.png)
+
+## Implement backpropagation
+
+![image](https://user-images.githubusercontent.com/23666146/122659193-297fb900-d12a-11eb-9d08-c05770b3b4d9.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659202-5502a380-d12a-11eb-9848-2118bad824dd.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659284-69936b80-d12b-11eb-8090-20948ce009c8.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659202-5502a380-d12a-11eb-9848-2118bad824dd.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659319-d7d82e00-d12b-11eb-8154-e1329b2f57b1.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659450-410c7100-d12d-11eb-8786-72b7de03cc77.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122659464-56819b00-d12d-11eb-9392-752c716905f2.png)
+
