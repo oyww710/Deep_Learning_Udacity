@@ -31,3 +31,37 @@
 ![image](https://user-images.githubusercontent.com/23666146/122657229-6e015980-d116-11eb-9d88-c55b8bf15182.png)
 
 ![image](https://user-images.githubusercontent.com/23666146/122657240-b15bc800-d116-11eb-957a-f6d3257899cc.png)
+
+## Neural Network Architecture
+
+![image](https://user-images.githubusercontent.com/23666146/122657817-a8212a00-d11b-11eb-980d-7e158f39ad64.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657835-c555f880-d11b-11eb-8834-662759a397e1.png)
+
+## Feedforward
+
+![image](https://user-images.githubusercontent.com/23666146/122657928-88d6cc80-d11c-11eb-9c01-0005ddc1032f.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122657939-b4f24d80-d11c-11eb-8c3e-9017a2d415da.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658189-29c68700-d11f-11eb-88bf-37acc5bfab98.png)
+
+## Backpropagation
+
+![image](https://user-images.githubusercontent.com/23666146/122657961-f2ef7180-d11c-11eb-9f68-791b0c03b8ec.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658077-de5fa900-d11d-11eb-9189-dda1271c9829.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658136-8d03e980-d11e-11eb-8dd0-b16224174b12.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658202-5084bd80-d11f-11eb-9787-fd804f11e527.png)
+
+![image](https://user-images.githubusercontent.com/23666146/122658215-6befc880-d11f-11eb-9309-e95c792e8e8d.png)
+
+
+### Chain Rule
+
+![image](https://user-images.githubusercontent.com/23666146/122658154-b3c22000-d11e-11eb-9bb7-a4b7630da0b1.png)
+
+
+
